@@ -25,8 +25,8 @@
 /providers/platform.yaml
 /providers/upsun.yaml
 /sequelpro.spf
-/traefik/config/haxcms.yaml
-/traefik/certs/haxcms.crt
-/traefik/certs/haxcms.key
+/traefik/config/php.yaml
+/traefik/certs/php.crt
+/traefik/certs/php.key
 /xhprof/xhprof_prepend.php
 /**/README.*
